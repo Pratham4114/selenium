@@ -6,7 +6,7 @@ import java.util.Properties;
 
 public class readPropFile 
 {
-	String propPath = "E://Prathamesh//DataDrivenFramework//Properties File//DDconfigfile.properties";
+	String propPath = "C://Users//Admin//git//selenium//DataDrivenFramework//Properties File//DDconfigfile.properties";
 	
 	Properties pro = new Properties();
 	
